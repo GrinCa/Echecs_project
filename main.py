@@ -20,4 +20,3 @@ print(debut, fin, fin - debut)
 
 print(disp_game(echequier.echequier))
 
-print("changement dans test")
