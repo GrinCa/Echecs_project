@@ -19,5 +19,3 @@ fin = time.time()
 print(debut, fin, fin - debut)
 
 print(disp_game(echequier.echequier))
-
-print("change")
